@@ -1,0 +1,12 @@
+C:\Users\jhon.murillo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\jhon.murillo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\jhon.murillo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\jhon.murillo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\jhon.murillo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\jhon.murillo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\jhon.murillo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\jhon.murillo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\jhon.murillo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\jhon.murillo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\jhon.murillo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\jhon.murillo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
