@@ -4,7 +4,10 @@
 @{
     ViewData["Title"] = "Manage your todo list";
 }
-
+<fb:login-button 
+  scope="public_profile,email"
+  onlogin="checkLoginState();">
+</fb:login-button>
 <div class="panel panel-default todo-panel">
   <div class="panel-heading">@ViewData["Title"]</div>
 
